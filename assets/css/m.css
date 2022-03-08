@@ -876,8 +876,8 @@ start navbar for media
         flex-direction: column;
         position: absolute;
         top: 100%;
-        padding-left: 42.5%;
-        padding-right: 42.5%;
+        padding-left: 35%;
+        padding-right: 35%;
         line-height: 40px;
         font-weight: 900;
         background-color: #F0F0F2;
